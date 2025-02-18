@@ -1,4 +1,4 @@
-package com.ioprogramming.advancedproblems;
+package com.ioprogramming.advancedproblems.csvvalidator;
 
 
 import com.opencsv.CSVReader;
